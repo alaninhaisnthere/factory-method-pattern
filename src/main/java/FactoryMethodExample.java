@@ -1,4 +1,4 @@
-package main;
+
 
 interface Shape {
     void draw();
