@@ -6,15 +6,6 @@ Este projeto de exemplo demonstra a implementação do padrão Factory Method em
 
 O objetivo deste projeto é ilustrar a aplicação do padrão de design Factory Method, que permite criar objetos sem especificar a classe exata do objeto a ser criado. Isso promove a flexibilidade, extensibilidade e desacopla a criação de objetos de sua utilização, tornando o código mais manutenível.
 
-## Estrutura de Arquivos
-
-A estrutura de arquivos do projeto é a seguinte:
-
-- `src/main/java/` contém o código-fonte Java.
-- `src/main/java/shapes/` contém as classes relacionadas às formas geométricas.
-- `src/main/java/factories/` contém as classes relacionadas às fábricas.
-- `FactoryMethodExample.java` é o arquivo principal do programa.
-
 ## Executando o Projeto
 
 1. Abra o terminal.
@@ -32,10 +23,6 @@ A estrutura de arquivos do projeto é a seguinte:
    ```
 
 Isso executará o programa e demonstrará a criação e desenho de diferentes formas geométricas usando o Factory Method.
-
-## Exemplo de Uso
-
-Esta aplicação cria uma fábrica de círculos e uma fábrica de quadrados para ilustrar como criar e desenhar formas geométricas usando o padrão Factory Method.
 
 ## Contribuições
 
